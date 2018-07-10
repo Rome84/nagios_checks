@@ -1,7 +1,6 @@
 #!/usr/bin/python2
 '''
 Created on May 15, 2011
-@author: thomasvincent
 '''
 #System libraries
 import sys
